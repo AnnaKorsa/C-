@@ -6,6 +6,6 @@ int m = Convert.ToInt32(Console.ReadLine());
 if (n > m)
     Console.WriteLine($"max = {n}");
 else if (n < m)
-    Console.WriteLine($"max = {m}");
+	Console.WriteLine($"max = {m}");
 else
     Console.WriteLine("=");
