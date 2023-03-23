@@ -1,0 +1,15 @@
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\obj\Debug\net6.0\Supersdvig.csproj.AssemblyReference.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\obj\Debug\net6.0\Supersdvig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\obj\Debug\net6.0\Supersdvig.AssemblyInfoInputs.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\obj\Debug\net6.0\Supersdvig.AssemblyInfo.cs
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\obj\Debug\net6.0\Supersdvig.csproj.CoreCompileInputs.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\bin\Debug\net6.0\Supersdvig.exe
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\bin\Debug\net6.0\Supersdvig.deps.json
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\bin\Debug\net6.0\Supersdvig.runtimeconfig.json
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\bin\Debug\net6.0\Supersdvig.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\bin\Debug\net6.0\Supersdvig.pdb
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\obj\Debug\net6.0\Supersdvig.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\obj\Debug\net6.0\refint\Supersdvig.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\obj\Debug\net6.0\Supersdvig.pdb
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\obj\Debug\net6.0\Supersdvig.genruntimeconfig.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Supersdvig\obj\Debug\net6.0\ref\Supersdvig.dll
