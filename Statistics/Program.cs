@@ -15,7 +15,7 @@ int EvenDays(int[] array)
 			count++;
 		}
 	}
-	Console. WriteLine("\n");
+	Console. Write("\n");
 	return count;
 }
 int OddDays(int[] array)
