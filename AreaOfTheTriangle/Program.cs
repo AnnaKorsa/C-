@@ -1,0 +1,16 @@
+﻿Console.Clear();
+Console.Write("Введите значение x1 = ");
+double x1 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите значение y1 = ");
+double y1 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите значение x2 = ");
+double x2 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите значение y2 = ");
+double y2 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите значение x3 = ");
+double x3 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите значение y3 = ");
+double y3 = Convert.ToDouble(Console.ReadLine());
+double S =0; 
+S = ((x1 -x3)*(y2 - y3) - (x2 - x3)*(y1 - y3)) / 2;
+Console.WriteLine($"Площадь треугольника равна: {Math.Abs(Math.Round(S, 2))}");
