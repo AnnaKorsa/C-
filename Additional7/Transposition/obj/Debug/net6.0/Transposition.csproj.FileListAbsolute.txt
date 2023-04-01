@@ -1,0 +1,15 @@
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\bin\Debug\net6.0\Transposition.exe
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\bin\Debug\net6.0\Transposition.deps.json
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\bin\Debug\net6.0\Transposition.runtimeconfig.json
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\bin\Debug\net6.0\Transposition.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\bin\Debug\net6.0\Transposition.pdb
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\obj\Debug\net6.0\Transposition.csproj.AssemblyReference.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\obj\Debug\net6.0\Transposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\obj\Debug\net6.0\Transposition.AssemblyInfoInputs.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\obj\Debug\net6.0\Transposition.AssemblyInfo.cs
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\obj\Debug\net6.0\Transposition.csproj.CoreCompileInputs.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\obj\Debug\net6.0\Transposition.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\obj\Debug\net6.0\refint\Transposition.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\obj\Debug\net6.0\Transposition.pdb
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\obj\Debug\net6.0\Transposition.genruntimeconfig.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Transposition\obj\Debug\net6.0\ref\Transposition.dll
