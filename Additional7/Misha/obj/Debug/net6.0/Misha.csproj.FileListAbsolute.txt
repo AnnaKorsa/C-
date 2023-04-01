@@ -1,0 +1,15 @@
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\bin\Debug\net6.0\Misha.exe
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\bin\Debug\net6.0\Misha.deps.json
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\bin\Debug\net6.0\Misha.runtimeconfig.json
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\bin\Debug\net6.0\Misha.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\bin\Debug\net6.0\Misha.pdb
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\obj\Debug\net6.0\Misha.csproj.AssemblyReference.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\obj\Debug\net6.0\Misha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\obj\Debug\net6.0\Misha.AssemblyInfoInputs.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\obj\Debug\net6.0\Misha.AssemblyInfo.cs
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\obj\Debug\net6.0\Misha.csproj.CoreCompileInputs.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\obj\Debug\net6.0\Misha.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\obj\Debug\net6.0\refint\Misha.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\obj\Debug\net6.0\Misha.pdb
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\obj\Debug\net6.0\Misha.genruntimeconfig.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\Misha\obj\Debug\net6.0\ref\Misha.dll
