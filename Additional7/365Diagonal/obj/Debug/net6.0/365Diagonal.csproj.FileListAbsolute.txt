@@ -1,0 +1,15 @@
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\bin\Debug\net6.0\365Diagonal.exe
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\bin\Debug\net6.0\365Diagonal.deps.json
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\bin\Debug\net6.0\365Diagonal.runtimeconfig.json
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\bin\Debug\net6.0\365Diagonal.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\bin\Debug\net6.0\365Diagonal.pdb
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\obj\Debug\net6.0\365Diagonal.csproj.AssemblyReference.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\obj\Debug\net6.0\365Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\obj\Debug\net6.0\365Diagonal.AssemblyInfoInputs.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\obj\Debug\net6.0\365Diagonal.AssemblyInfo.cs
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\obj\Debug\net6.0\365Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\obj\Debug\net6.0\365Diagonal.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\obj\Debug\net6.0\refint\365Diagonal.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\obj\Debug\net6.0\365Diagonal.pdb
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\obj\Debug\net6.0\365Diagonal.genruntimeconfig.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Additional7\365Diagonal\obj\Debug\net6.0\ref\365Diagonal.dll
