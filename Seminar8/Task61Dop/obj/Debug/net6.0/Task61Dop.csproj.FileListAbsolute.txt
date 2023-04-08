@@ -1,0 +1,15 @@
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\bin\Debug\net6.0\Task61Dop.exe
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\bin\Debug\net6.0\Task61Dop.deps.json
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\bin\Debug\net6.0\Task61Dop.runtimeconfig.json
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\bin\Debug\net6.0\Task61Dop.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\bin\Debug\net6.0\Task61Dop.pdb
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\obj\Debug\net6.0\Task61Dop.csproj.AssemblyReference.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\obj\Debug\net6.0\Task61Dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\obj\Debug\net6.0\Task61Dop.AssemblyInfoInputs.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\obj\Debug\net6.0\Task61Dop.AssemblyInfo.cs
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\obj\Debug\net6.0\Task61Dop.csproj.CoreCompileInputs.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\obj\Debug\net6.0\Task61Dop.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\obj\Debug\net6.0\refint\Task61Dop.dll
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\obj\Debug\net6.0\Task61Dop.pdb
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\obj\Debug\net6.0\Task61Dop.genruntimeconfig.cache
+C:\Users\User\GIT\HomeworkC\C#\HomeworkC\Seminar8\Task61Dop\obj\Debug\net6.0\ref\Task61Dop.dll
